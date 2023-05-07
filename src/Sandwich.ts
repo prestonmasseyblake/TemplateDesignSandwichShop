@@ -11,11 +11,11 @@ export abstract class Sandwich {
   }
 
   openBread(): string {
-    return "Open the bread.";
+    return "Open the bread in abstract base class.";
   }
 
   closeBread(): string {
-    return "Close the bread.";
+    return "Close the bread in abstract base class.";
   }
 
   abstract addMainIngredient(): string[];

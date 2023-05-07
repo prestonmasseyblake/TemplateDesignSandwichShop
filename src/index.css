@@ -29,3 +29,7 @@ code {
   height: 400px;
   width: auto;
 }
+
+display-linebreak {
+  white-space: pre;
+}
