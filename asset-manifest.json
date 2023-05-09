@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2c5118a.css",
-    "main.js": "/static/js/main.6cf96409.js",
-    "static/js/787.c1dfe214.chunk.js": "/static/js/787.c1dfe214.chunk.js",
-    "static/media/store.png": "/static/media/store.cceb70c9006fe9e6fa63.png",
-    "index.html": "/index.html",
-    "main.d2c5118a.css.map": "/static/css/main.d2c5118a.css.map",
-    "main.6cf96409.js.map": "/static/js/main.6cf96409.js.map",
-    "787.c1dfe214.chunk.js.map": "/static/js/787.c1dfe214.chunk.js.map"
+    "main.css": "/TemplateDesignSandwichShop/static/css/main.e27d2aff.css",
+    "main.js": "/TemplateDesignSandwichShop/static/js/main.d2e5e56c.js",
+    "static/js/787.c1dfe214.chunk.js": "/TemplateDesignSandwichShop/static/js/787.c1dfe214.chunk.js",
+    "static/media/store.png": "/TemplateDesignSandwichShop/static/media/store.cceb70c9006fe9e6fa63.png",
+    "index.html": "/TemplateDesignSandwichShop/index.html",
+    "main.e27d2aff.css.map": "/TemplateDesignSandwichShop/static/css/main.e27d2aff.css.map",
+    "main.d2e5e56c.js.map": "/TemplateDesignSandwichShop/static/js/main.d2e5e56c.js.map",
+    "787.c1dfe214.chunk.js.map": "/TemplateDesignSandwichShop/static/js/787.c1dfe214.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2c5118a.css",
-    "static/js/main.6cf96409.js"
+    "static/css/main.e27d2aff.css",
+    "static/js/main.d2e5e56c.js"
   ]
 }
